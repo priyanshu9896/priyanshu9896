@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @priyanshu9896
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on advance python
-- 📫 How to reach me www.linkedin.com/in/priyanshu-dubey-962b34321
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... i hate DSA
+## 👋 Hi there, I'm Priyanshu Dubey!
 
-<!---
-priyanshu9896/priyanshu9896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu9896&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/priyanshu9896?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/priyanshu9896?label=Stars&style=social)
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🚀 About Me
+- 🌱 I’m currently learning **AI and Data Science**
+- 🔭 I’m working on a **Women Safety App**
+- 🤔 I’m looking for help with **advanced AI projects**
+- 💬 Ask me about **Data Science, AI, or SQL**
+- 📫 How to reach me: **[Email](mailto:priyanshudubey9896@gmail.com)**
+
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, SQL
+- **Frameworks:** TensorFlow, Keras, Flask
+- **Tools:** Git, Docker, Jupyter Notebook
+- **Databases:** MySQL, MongoDB
+
+### ⚡ Fun Fact
+I’m always up for a hackathon or brainstorming sessions! 🚀
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu9896&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu9896&theme=radical" alt="GitHub Streak">
+</p>
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-dubey-962b34321/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/priyanshu_9896_)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/priyansh_.69/)
+
+<!--
+**priyanshu9896/priyanshu9896** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
