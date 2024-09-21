@@ -22,11 +22,9 @@
 ### ⚡ Fun Fact
 I’m always up for a hackathon or brainstorming sessions! 🚀
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu9896&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu9896&theme=radical" alt="GitHub Streak">
-</p>
+## 🚀 Aajao Connect kerte hai !!!
+
+![Tech Animation](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-dubey-962b34321/)
