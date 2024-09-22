@@ -11,7 +11,7 @@
 - 🔭 I’m working on a **Women Safety App**
 - 🤔 I’m looking for help with **advanced AI projects**
 - 💬 Ask me about **Data Science, AI, or SQL**
-- 📫 How to reach me: **[Email](mailto:priyanshudubey9896@gmail.com)**
+- 📫 How to reach me: **[Email](mailto:reach-priyanshu@outlook.com)**
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, SQL
