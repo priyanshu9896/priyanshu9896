@@ -8,7 +8,6 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **AI and Data Science**
-- 🔭 I’m working on a **Women Safety App**
 - 🤔 I’m looking for help with **advanced AI projects**
 - 💬 Ask me about **Data Science, AI, or SQL**
 - 📫 How to reach me: **[Email](mailto:reach-priyanshu@outlook.com)**
