@@ -3,13 +3,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=24&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=AI+Engineer;Full-Stack+Developer;Always+Learning;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=28&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=650&lines=🚀+AI+Engineer;💻+Full-Stack+AI+Developer;📊+Data+Science+Enthusiast;🎯+Solving+Real-World+Problems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="600" alt="">
 </p>
-
 <!-- About Me Section -->
 <h2 align="center">👨‍💻 About Me</h2>
 
