@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=28&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=650&lines=🚀+AI+Engineer;💻+Full-Stack+AI+Developer;📊+Data+Science+Enthusiast;🎯+Solving+Real-World+Problems" alt="Typing SVG" />
-</h1>
+</h1> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="600" alt="">
