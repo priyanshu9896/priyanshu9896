@@ -7,11 +7,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="600" alt="">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-00FFFF?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-00FFFF?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/Lives-Karnal%2C%20Haryana-00FFFF?style=for-the-badge" alt="Location">
-</p>
 <!-- About Me Section -->
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
