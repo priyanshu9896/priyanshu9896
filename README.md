@@ -139,7 +139,6 @@
         <p>Smart resume analyzer using NLP and machine learning to identify improvement areas, suggest enhancements, and compare with industry standards.</p>
         <p>
           <a href="https://github.com/priyanshu9896/AI-Resume-Checker" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-00FFFF?style=for-the-badge&logo=github" alt="View Code">
           </a>
         </p>
       </td>
@@ -151,7 +150,6 @@
         <p>Transforming complex research papers into concise, readable summaries with advanced NLP techniques and contextual understanding.</p>
         <p>
           <a href="https://github.com/priyanshu9896/Paper-AI-Summarizer" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-00FFFF?style=for-the-badge&logo=github" alt="View Code">
           </a>
         </p>
       </td>
@@ -165,7 +163,6 @@
         <p>Real-time safety application with predictive analytics, emergency response, and community alert system for enhanced women's safety.</p>
         <p>
           <a href="https://github.com/priyanshu9896/Women-Safety-Analytics" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-00FFFF?style=for-the-badge&logo=github" alt="View Code">
           </a>
         </p>
       </td>
@@ -177,7 +174,6 @@
         <p>Automated attendance system using face recognition with real-time verification, anti-spoofing measures, and comprehensive reporting.</p>
         <p>
           <a href="https://github.com/priyanshu9896/Face-Recognition-Attendance" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-00FFFF?style=for-the-badge&logo=github" alt="View Code">
           </a>
         </p>
       </td>
