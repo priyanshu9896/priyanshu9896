@@ -33,9 +33,6 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,100:00FFFF&height=100&section=footer" alt="footer">
-</p>
 
 
 
