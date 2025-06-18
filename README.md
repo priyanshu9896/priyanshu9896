@@ -1,6 +1,23 @@
+<!-- 🖼️ Full Width Banner Image (Latest Upload) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF006E&height=120&section=header&text=Priyanshu%20Dubey&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header">
+  <img src="https://i.postimg.cc/HkNQxfm1/temp-Imagecawri-L.avif" alt="Banner" width="100%" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=28&duration=2800&pause=700&color=00FFFF&center=true&vCenter=true&width=750&lines=⚡+Aspiring+AI+ENGINEER;🎮+FULL-STACK+DEVELOPER;🤖+DATA+SCIENCE+WIZARD;🚀+BUILDING+RETRO+FUTURES;💾+CODE+%26+CREATE" alt="Typing SVG" />
