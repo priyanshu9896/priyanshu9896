@@ -1,29 +1,27 @@
-<!-- 🖼️ Full Width Banner Image (Latest Upload) -->
+<!-- 🖼️ Full Width Pixel-Themed Banner Image -->
 <p align="center">
   <img src="https://i.postimg.cc/HkNQxfm1/temp-Imagecawri-L.avif" alt="Banner" width="100%" />
 </p>
 
+<!-- ✨ Typing Pixel Line 1 — Light Green -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=1000&lines=⚡+Aspiring+AI+ENGINEER+%7C+🎮+FULL-STACK+DEV+%7C+🤖+DATA+SCIENCE"
+    alt="Typing Pixel Line Light Green" />
+</p>
 
+<!-- 💻 Typing Pixel Line 2 — White -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+RETRO+FUTURES+BUILDER+%7C+💾+CODE+%26+CREATE+%7C+🔍+TECH+EXPLORER"
+    alt="Typing Pixel Line White" />
+</p>
 
+---
 
+<h2 align="center" style="color:#FFFFFF; font-family:'Press Start 2P', monospace;">🔗 Let’s Connect</h2>
+<div align="center">
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=28&duration=2800&pause=700&color=00FFFF&center=true&vCenter=true&width=750&lines=⚡+Aspiring+AI+ENGINEER;🎮+FULL-STACK+DEVELOPER;🤖+DATA+SCIENCE+WIZARD;🚀+BUILDING+RETRO+FUTURES;💾+CODE+%26+CREATE" alt="Typing SVG" />
-</h1>
-
-<h2 align="center">🔗 Let's Connect</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/priyanshu-dubey-ai" target="_blank">
