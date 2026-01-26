@@ -21,20 +21,18 @@
 
 ---
 
-### 👾 Developer Avatar
 
+<!-- ✨ Typing Pixel Line 1 — Light Green -->
 <p align="center">
-  <img src="./assets/pixel-head.svg" alt="Pixel Head" width="150" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=3000&color=39FF14&center=true&vCenter=true&width=1000&lines=⚡+Aspiring+AI+ENGINEER+%7C+🎮+FULL-STACK+DEV+%7C+🤖+DATA+SCIENCE"
+    alt="Typing Pixel Line Light Green" />
 </p>
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00ff88, #00ffcc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;">
-    ASPIRING AI ENGINEER
-  </span>
-</h2>
-
+<!-- 💻 Typing Pixel Line 2 — White -->
 <p align="center">
-  <em>Crafting intelligent solutions | AI | ML | Full Stack</em>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+RETRO+FUTURES+BUILDER+%7C+💾+CODE+%26+CREATE+%7C+🔍+TECH+EXPLORER"
+    alt="Typing Pixel Line White" />
 </p>
 
----
