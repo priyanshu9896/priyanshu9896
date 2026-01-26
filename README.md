@@ -19,5 +19,22 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
+### 👾 Developer Avatar
+
+<p align="center">
+  <img src="./assets/pixel-head.svg" alt="Pixel Head" width="150" />
+</p>
+
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #00ff88, #00ffcc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;">
+    ASPIRING AI ENGINEER
+  </span>
+</h2>
+
+<p align="center">
+  <em>Crafting intelligent solutions | AI | ML | Full Stack</em>
+</p>
 
 ---
