@@ -22,17 +22,4 @@
 ---
 
 
-<!-- ✨ Typing Pixel Line 1 — Light Green -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=3000&color=39FF14&center=true&vCenter=true&width=1000&lines=⚡+Aspiring+AI+ENGINEER+%7C+🎮+FULL-STACK+DEV+%7C+🤖+DATA+SCIENCE"
-    alt="Typing Pixel Line Light Green" />
-</p>
-
-<!-- 💻 Typing Pixel Line 2 — White -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+RETRO+FUTURES+BUILDER+%7C+💾+CODE+%26+CREATE+%7C+🔍+TECH+EXPLORER"
-    alt="Typing Pixel Line White" />
-</p>
 
