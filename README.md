@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+Full-Stack Developer | AI Engineer | Building SaaS, AI Products, Agentic AI Systems & Modern Web Applications
 
 
 
