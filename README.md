@@ -40,7 +40,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Multimango](https://img.shields.io/badge/Multimango-FF6B35?style=flat&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
