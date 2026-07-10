@@ -35,9 +35,14 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
-Full-Stack Developer | AI Engineer | Building SaaS, AI Products, Agentic AI Systems & Modern Web Applications
+
+Fulll-Stack Developer | AI Engineer | Building SaaS, AI Products, Agentic AI Systems & Modern Web Applications
+
 🌐 Portfolio: https://www.priyanshh.site
 💼 LinkedIn: [linkedin.com/in/priyanshu-dubey-ai](https://www.linkedin.com/in/priyanshu-dubey-ai/)
 📧 Email: reach-priyanshu@outlook.com
+
+
+
                               💼 Open to Full-Time, Internship, Freelance & Remote Opportunities
 
